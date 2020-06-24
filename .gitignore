@@ -1,0 +1,14 @@
+/.tm_properties
+/.rake_t_cache
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/spec/log/
+/tmp/
+/.envrc
+/.ruby-*
